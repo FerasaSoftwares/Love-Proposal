@@ -2,7 +2,6 @@
 
 An interactive romantic experience that lets you generate a beautiful, animated proposal page personalized with:
 - ✨ Name
-- 🎂 Date of Birth
 - 💌 Custom Message
 
 Designed to impress — smooth animations, heart particles, emotional reveals, and a magical proposal moment.
